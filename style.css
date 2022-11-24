@@ -1,0 +1,17 @@
+body {
+    border: solid black 1px;
+    margin: auto 0;
+    background: #ddd;
+    text-align: center;
+}
+
+h1 {
+    border: solid black 1px;
+    border-radius: 8px 8px;
+    background-color: #aaa;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
